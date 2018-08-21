@@ -14,6 +14,14 @@ This project makes references to [Kaggle experts sharing kernel](https://github.
 * ``bayes_opt`` (can be downloaded in [BayesOpt](https://github.com/rmcantin/bayesopt))
 
 ## Dataset
-The dataset came from the Kaggle competition: (https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
+The dataset came from the Kaggle competition: https://www.kaggle.com/c/nyc-taxi-trip-duration/data
+
+## Usage
+To run the code, following steps are needed.
+1. ``python preprocessing.py``
+2. ``python feature_engineering.py``
+3. ``python model.py`` (initial xgboost model)
+4. ``python parameters_optim.py`` (tunning xgboost model parameters with Bayesian optimization)
+5. ``python model_optimization.py`` (final model)
 
 
