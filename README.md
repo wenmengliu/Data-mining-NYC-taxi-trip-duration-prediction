@@ -6,7 +6,7 @@ This project makes references to [Kaggle experts sharing kernel](https://github.
 
 ## Requirements
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ## Dataset
