@@ -5,9 +5,9 @@ In this data mining project, the goal of the problem is to predict New York City
 This project makes references to [Kaggle experts sharing kernel](https://github.com/mxbi/mlnd-capstone).
 
 ## Requirements
-'''
+```
 pip install -r requirments.txt
-'''
+```
 
 ## Dataset
 The dataset came from the Kaggle competition: https://www.kaggle.com/c/nyc-taxi-trip-duration/data
