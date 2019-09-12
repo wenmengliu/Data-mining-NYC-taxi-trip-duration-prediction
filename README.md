@@ -18,6 +18,4 @@ To run the code, following steps are needed.
 2. ``python feature_engineering.py``
 3. ``python model.py`` (initial xgboost model)
 4. ``python parameters_optim.py`` (tunning xgboost model parameters with Bayesian optimization)
-5. ``python model_optimization.py`` (final model)
-
-
+5. ``python model_optimization.py`` 
