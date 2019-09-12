@@ -5,11 +5,9 @@ In this data mining project, the goal of the problem is to predict New York City
 This project makes references to [Kaggle experts sharing kernel](https://github.com/mxbi/mlnd-capstone).
 
 ## Requirements
-* ``pandas``
-* ``numpy``
-* ``scikit-learn``
-* ``xgboost`` (can be installed with ``pip install xgboost`` on Linux)
-* ``bayes_opt`` (can be downloaded in [BayesOpt](https://github.com/rmcantin/bayesopt))
+'''
+pip install -r requirments.txt
+'''
 
 ## Dataset
 The dataset came from the Kaggle competition: https://www.kaggle.com/c/nyc-taxi-trip-duration/data
